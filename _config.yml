@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Data & Machine Learning"
 title_separator          : "-"
 name                     : "Joel K"
-description              : "I am a data engineer excited about data and machine learning."
+description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Joel Kinnunen"
+  avatar           : "/assets/images/joel.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a data engineer who is curious about data and machine learning."
+  location         : "Helsinki, Finland"
   email            :
   links:
     - label: "Email"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/JoelKin" # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/JoelKin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
