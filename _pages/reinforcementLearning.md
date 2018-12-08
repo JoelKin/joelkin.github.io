@@ -1,6 +1,6 @@
 ---
 layout: archive
 permalink: /reinforcement-learning/
-title: "Reinforcement Learning Postsfaölsdkjfaöls"
+title: "Reinforcement Learning Posts"
 author_profile: true
 ---
